@@ -9,6 +9,9 @@ The Liver Cirrhosis Stage Detection is a Machine Learning application designed t
 * Run the code . 
 * Upload the Dataset :
    ![Screenshot 2024-08-22 103912](https://github.com/user-attachments/assets/e6516549-d13f-49d4-88d3-4b16ba4b6ba1)
+* The Project :
+   https://github.com/user-attachments/assets/4e395227-cbf3-4e73-bfa2-44d114de0b2f
+
 
 # Features 
 * Data Upload or Manual Input: Users can upload a dataset or manually enter patient data.
