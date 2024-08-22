@@ -4,4 +4,7 @@ Install in terminal
 
 Python version 3.11 was used in making of this project !!
 
+Run : 
+streamlit run detector.py 
+
 That's all ! 
